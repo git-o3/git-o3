@@ -21,4 +21,5 @@ I design and build backend systems from the ground up — authentication, role-b
 ---
 
 ### Stack
-`Node.js` `Express` `MongoDB` `Mongoose` `JWT` `Swagger` `RabbitMQ` `Docker` `EJS` `REST APIs`
+`Node.js` `Express` `MongoDB` `Mongoose` `JWT` `Swagger` `RabbitMQ` `Docker` `EJS` `REST APIs` `Redis`
+`Nginx` `Linux`
